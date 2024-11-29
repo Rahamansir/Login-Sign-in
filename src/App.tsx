@@ -1,5 +1,4 @@
-import react, { useState } from 'react';
-import Field from './Components/Field';
+import { useState } from 'react';
 import Register from './Components/Alternate/Register';
 import Login from './Components/Alternate/Login';
 
